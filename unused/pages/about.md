@@ -1,9 +1,8 @@
 ---
 title: About
-author: Tao He
-date: 2022-02-04
+author: Jacket430
+date: 2024-06-23
 category: Jekyll
 layout: post
 ---
 
-This is an about page.
