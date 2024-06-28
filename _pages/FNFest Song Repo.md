@@ -6,7 +6,7 @@ category: Games
 layout: post
 ---
 
-This repo contains Fortnite Festival songs converted and packaged for Rock Band 3 Deluxe, utilizing the [FNFestivaltoRB](https://github.com/FEStoRB/FNFestivaltoRB) project. Issues with the charts should be reported to their GitHub page.
+This repo contains Fortnite Festival songs converted and packaged for Rock Band 3 Deluxe, utilizing the [FNFestivaltoRB](https://github.com/FEStoRB/FNFestivaltoRB) project. Issues with the charts themselves should be reported to their GitHub page.
 
 ## About
 
@@ -18,7 +18,7 @@ This repo contains Fortnite Festival songs converted and packaged for Rock Band 
 - "Basic" conversions from FNFestival are missing Vocal charts and animations in Rock Band, due to the way Vocals are charted in FNFest.
 - "Full" conversions have been hand-authored with full animations and lighting effects.
 - "Full" conversions have Vocal charts and animations in Rock Band.
-- "Full" conversions may also have Keys, or "Pro" instruments.
+- "Full" conversions may also have Keys or Pro instruments.
 
 ### Returning Songs
 
@@ -29,7 +29,7 @@ This repo contains Fortnite Festival songs converted and packaged for Rock Band 
 
 ### Basic Conversions
 
-**Download**: [MEGA](https://mega.nz/file/0IpTzZoZ#K2sDj8MUgeNPHQfQZ25LUT3ezhSDJ5ET-s8_-x9q3ic)
+**Download**: [MEGA](https://mega.nz/file/cc5QzARZ#_GBNvnpKfjwSf0oyLR_8-VfRPRN58zSO902evXwLZ00)
 
 Updated 06-27-24
 
