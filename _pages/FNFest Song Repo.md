@@ -29,9 +29,9 @@ This repo contains Fortnite Festival songs converted and packaged for Rock Band 
 
 ### Basic Conversions
 
-**Download**: [MEGA](https://mega.nz/file/cc5QzARZ#_GBNvnpKfjwSf0oyLR_8-VfRPRN58zSO902evXwLZ00)
+**Download**: [MEGA](https://mega.nz/file/EBpT3K6Q#hsSGN0wthrnZZdTAPyG8iB2AhPvE7y8Y-4LUvXLt324)
 
-Updated 06-27-24
+Updated 07-18-24
 
 <div class="table-wrapper" markdown="block">
 
@@ -118,6 +118,7 @@ Updated 06-27-24
 |Metallica|Seek & Destroy|
 |M neskin|Beggin'|
 |NickEh30|Never Back Down|
+|NLE Choppa ft. Roddy Ricch|Walk Em Down|
 |Olivia Rodrigo|vampire|
 |PinkPantheress & Ice Spice|Boy's A Liar Pt. 2|
 |Pitbull ft. Ne-Yo, Afrojack & Nayer|Give Me Everything|
@@ -147,9 +148,9 @@ Updated 06-27-24
 
 ### Full Conversions
 
-**Download**: [MEGA](https://mega.nz/file/kFQExaRJ#wDfvSiLS45C-4nf0Xzhx2QfE98F2not2jvQSLdNXkG4)
+**Download**: [MEGA](https://mega.nz/file/EJJBFTzQ#0fLMSPlHTLiNsDNUqRPT0bOvAE8Y1bIKkDTlRtr9gQQ)
 
-Updated 06-27-24
+Updated 07-18-24
 
 <div class="table-wrapper" markdown="block">
 
@@ -164,18 +165,19 @@ Updated 06-27-24
 |Greta Van Fleet|Highway Tune|
 |Haddaway|What Is Love|
 |John Williams, London Symphony Orchestra|Cantina Band|
-|Kendrick Lamar|i|
 |Lil Uzi Vert|XO Tour Llif3|
-|Machine Gun Kelly|emo girl (ft. WILLOW)|
+|Machine Gun Kelly (ft. WILLOW)|emo girl|
+|Metallica|For Whom The Bell Tolls|
 |Metallica|Fuel|
 |Metallica|Master of Puppets|
 |Metallica|Nothing Else Matters|
 |Metallica|One|
+|Metallica|Seek & Destroy|
 |Metallica|The Unforgiven|
 |Metallica|Wherever I May Roam|
 |Miley Cyrus|Flowers|
+|Nelly (ft. City Spud)|Ride Wit Me|
 |NF|The Search|
-|Nelly|Ride Wit Me (ft. City Spud)|
 |Nine Inch Nails|Less Than|
 |Olivia Rodrigo|get him back!|
 |PSY|Gangnam Style|
@@ -186,9 +188,9 @@ Updated 06-27-24
 
 ### Returning Songs
 
-**Download**: [MEGA](https://mega.nz/file/dZxDlAAR#mqEG5wiVKGYyqUfqoZ3ya0gatWZe9L2rao-4eEOzsQQ)
+**Download**: [MEGA](https://mega.nz/file/hcBi2AAS#dAv9D-dFRhxPBKnoKKjME-xB03yzU5yqQWQe8NvMPAg)
 
-Updated 06-27-24
+Updated 07-18-24
 
 <div class="table-wrapper" markdown="block">
 
@@ -199,21 +201,21 @@ Updated 06-27-24
 |Avenged Sevenfold|Hail to the King|
 |Bastille|Pompeii|
 |Beastie Boys|Sabotage|
-|Billie Eilish|bad guy|
 |Billie Eilish|Therefore I Am|
+|Billie Eilish|bad guy|
 |Blink-182|All the Small Things|
-|blink-182|What's My Age Again?|
 |Blue Öyster Cult|(Don't Fear) The Reaper|
 |Blur|Song 2|
 |Bruno Mars|24K Magic|
 |Carly Rae Jepsen|Call Me Maybe|
-|Disturbed|Down with the Sickness|
 |DNCE|Cake by the Ocean|
+|Disturbed|Down with the Sickness|
 |Epic Games|S.O.M.P.|
 |Evanescence|Bring Me To Life|
 |Fall Out Boy|My Songs Know What You Did in the Dark (Light Em Up)|
 |Florence + the Machine|Dog Days Are Over|
 |Foo Fighters|Everlong|
+|GAYLE|abcdefu|
 |Glass Animals|Heat Waves|
 |Gorillaz|Feel Good Inc.|
 |Green Day|Basket Case|
@@ -228,26 +230,35 @@ Updated 06-27-24
 |KT Tunstall|Suddenly I See|
 |Lady Gaga|Bad Romance|
 |Lady Gaga|Born This Way|
+|Lady Gaga|Just Dance|
 |Lady Gaga|Poker Face|
 |Lady Gaga|The Edge of Glory|
 |Lady Gaga ft. Colby O'Donis|Just Dance|
 |LMFAO|Party Rock Anthem (ft. Lauren Bennett & GoonRock)|
-|Machine Gun Kelly|emo girl (ft. WILLOW)|
-|mgk & blackbear|my ex's best friend|
-|mgk, YUNGBLUD & Travis Barker|I Think I'm OKAY|
+|MGMT|Kids|
+|Mark Ronson ft. Bruno Mars|Uptown Funk|
 |Maroon 5|Maps|
 |Maroon 5 ft. Christina Aguilera|Moves Like Jagger|
 |Masked Wolf|Astronaut in the Ocean|
 |Metallica|Enter Sandman|
+|Metallica|For Whom The Bell Tolls|
+|Metallica|Fuel|
+|Metallica|Master of Puppets|
+|Metallica|Nothing Else Matters|
+|Metallica|One|
 |Metallica|Ride the Lightning|
-|Montell Jordan|This Is How We Do It|
+|Metallica|Seek & Destroy|
+|Metallica|The Unforgiven|
+|Metallica|Wherever I May Roam|
+|MGK & blackbear|my ex's best friend|
+|MGK, YUNGBLUD & Travis Barker|I Think I'm OKAY|
 |Muse|Hysteria|
-|NF|The Search|
 |Nicki Minaj|Starships|
 |Nine Inch Nails|March of the Pigs|
 |Nine Inch Nails|The Hand That Feeds|
 |Nirvana|Breed|
 |No Doubt|Just a Girl|
+|Olivia Rodrigo|get him back!|
 |Olivia Rodrigo|good 4 u|
 |OneRepublic|Counting Stars|
 |P!nk|So What|
@@ -255,7 +266,6 @@ Updated 06-27-24
 |Paramore|Misery Business|
 |Pat Benatar|Heartbreaker|
 |Portugal. The Man|Feel It Still|
-|Post Malone|Circles|
 |Queens of the Stone Age|Go with the Flow|
 |Rage Against The Machine|Killing In The Name|
 |Rage Against the Machine|Bulls on Parade|
@@ -263,8 +273,8 @@ Updated 06-27-24
 |Rancid|Ruby Soho|
 |Rick James|Super Freak|
 |Rob Zombie|Dragula|
-|Shawn Mendes|Stitches|
 |Sia ft. Sean Paul|Cheap Thrills|
+|Shawn Mendes|Stitches|
 |Slipknot|Before I Forget|
 |Soundgarden|Black Hole Sun|
 |Sub Urban|Cradles|
@@ -278,10 +288,12 @@ Updated 06-27-24
 |The Killers|Mr. Brightside|
 |The Weeknd|Blinding Lights|
 |The Weeknd|Can't Feel My Face|
+|The Weeknd|Save Your Tears|
+|The Weeknd|Take My Breath|
 |The Weeknd|The Hills|
+|The White Stripes|Seven Nation Army|
 |Twenty One Pilots|Heathens|
 |Twenty One Pilots|Stressed Out|
 |Weezer|Buddy Holly|
-|The White Stripes|Seven Nation Army|
 
 </div>
