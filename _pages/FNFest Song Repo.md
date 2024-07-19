@@ -40,11 +40,11 @@ Updated 07-18-24
 |24kGoldn ft. iann dior|Mood|
 |2Pac ft. Talent|Changes|
 |A Tribe Called Quest ft. Leaders Of The New School|Scenario|
+|A7S, ATB, Topic|Your Love (9pm)|
 |Ariana Grande|positions|
 |Ariana Grande|the boy is mine|
 |Ariana Grande|yes, and?|
 |Ariana Grande ft. Nicki Minaj|Side To Side|
-|ATB, Topic, A7S|Your Love (9pm)|
 |Bad Bunny and Jhayco|DÁKITI|
 |Bell Biv DeVoe|Poison|
 |Billie Eilish|all the good girls go to hell|
@@ -53,16 +53,15 @@ Updated 07-18-24
 |Billie Eilish|LUNCH|
 |Billie Eilish|Oxytocin|
 |Billie Eilish|THE DINER|
-|blink-182|YOU DON'T KNOW WHAT YOU'VE GOT|
 |Bleachers|I Wanna Get Better|
-|Don Toliver|Bandit|
+|blink-182|YOU DON'T KNOW WHAT YOU'VE GOT|
 |DMX|X Gon' Give It To Ya|
 |Doja Cat|Paint The Town Red|
 |Doja Cat|Woman|
 |Doja Cat ft. SZA|Kiss Me More|
+|Don Toliver|Bandit|
 |Ed Sheeran|Shivers|
 |Elton John & Britney Spears|Hold Me Closer|
-|Eslabon Armado, Peso Pluma|Ella Baila Sola|
 |Epic Games|Best Buds|
 |Epic Games|Bloom|
 |Epic Games|Brace for Chaos|
@@ -125,24 +124,7 @@ Updated 07-18-24
 |Post Malone|Better Now|
 |Post Malone ft. Morgan Wallen|I Had Some Help|
 |Rob Base & DJ EZ Rock|It Takes Two|
-|SAINt JHN|Roses (Imanbek Remix)|
-|Selena Gomez|Single Soon|
-|Selena Gomez w/Marshmello|Wolves|
-|Skee-Lo|I Wish|
-|Swedish House Mafia ft. John Martin|Don't You Worry Child|
-|The Weeknd, Madonna & Playboi Carti|Popular|
-|Topic w/ A7S|Breaking Me|
-|Twenty One Pilots|Next Semester|
-|U2|Beautiful Day|
-|U2|I Still Haven't Found What I'm Looking For|
-|U2|With Or Without You|
-|Vengaboys|We Like To Party! (The Vengabus)|
-|WILLOW ft. Travis Barker|t r a n s p a r e n t s o u l|
-|WitchGang|Nothing's Alright|
-|WitchGang|Runaway|
-|WitchGang|Timeless|
-|Young MC|Bust A Move|
-|Zedd, Maren Morris & Grey|The Middle|
+|SAINt JHN|Roses (Imanbek Remix)
 
 </div>
 
@@ -201,8 +183,8 @@ Updated 07-18-24
 |Avenged Sevenfold|Hail to the King|
 |Bastille|Pompeii|
 |Beastie Boys|Sabotage|
-|Billie Eilish|Therefore I Am|
 |Billie Eilish|bad guy|
+|Billie Eilish|Therefore I Am|
 |Blink-182|All the Small Things|
 |Blue Öyster Cult|(Don't Fear) The Reaper|
 |Blur|Song 2|
@@ -240,6 +222,8 @@ Updated 07-18-24
 |Maroon 5|Maps|
 |Maroon 5 ft. Christina Aguilera|Moves Like Jagger|
 |Masked Wolf|Astronaut in the Ocean|
+|MGK & blackbear|my ex's best friend|
+|MGK, YUNGBLUD & Travis Barker|I Think I'm OKAY|
 |Metallica|Enter Sandman|
 |Metallica|For Whom The Bell Tolls|
 |Metallica|Fuel|
@@ -250,8 +234,6 @@ Updated 07-18-24
 |Metallica|Seek & Destroy|
 |Metallica|The Unforgiven|
 |Metallica|Wherever I May Roam|
-|MGK & blackbear|my ex's best friend|
-|MGK, YUNGBLUD & Travis Barker|I Think I'm OKAY|
 |Muse|Hysteria|
 |Nicki Minaj|Starships|
 |Nine Inch Nails|March of the Pigs|
@@ -267,8 +249,8 @@ Updated 07-18-24
 |Pat Benatar|Heartbreaker|
 |Portugal. The Man|Feel It Still|
 |Queens of the Stone Age|Go with the Flow|
+|Rage Against The Machine|Bulls on Parade|
 |Rage Against The Machine|Killing In The Name|
-|Rage Against the Machine|Bulls on Parade|
 |Ramones|Blitzkrieg Bop|
 |Rancid|Ruby Soho|
 |Rick James|Super Freak|
