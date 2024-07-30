@@ -20,7 +20,7 @@ This repo contains Fortnite Festival songs converted and packaged for Rock Band 
 - "Full" conversions have Vocal charts and animations in Rock Band.
 - "Full" conversions may also have Keys or Pro instruments.
 
-### Returning Songs
+### "Returning" Songs
 
 - Songs that have already been featured in previous Rock Band entries to avoid duplicates.
 - Not separated into "Basic" and "Full", will upon request.
@@ -29,9 +29,9 @@ This repo contains Fortnite Festival songs converted and packaged for Rock Band 
 
 ### Basic Conversions
 
-**Download**: [MEGA](https://mega.nz/file/EBpT3K6Q#hsSGN0wthrnZZdTAPyG8iB2AhPvE7y8Y-4LUvXLt324)
+**Download**: [MEGA](https://mega.nz/file/gcITiTwI#IB7k8mOfPJwzRgaU1GmPDZ3shtzJwn7CY2l0aSi2E1E)
 
-Updated 07-18-24
+Updated 07-29-24
 
 <div class="table-wrapper" markdown="block">
 
@@ -40,11 +40,13 @@ Updated 07-18-24
 |24kGoldn ft. iann dior|Mood|
 |2Pac ft. Talent|Changes|
 |A Tribe Called Quest ft. Leaders Of The New School|Scenario|
-|A7S, ATB, Topic|Your Love (9pm)|
 |Ariana Grande|positions|
 |Ariana Grande|the boy is mine|
 |Ariana Grande|yes, and?|
 |Ariana Grande ft. Nicki Minaj|Side To Side|
+|ATB, Topic, A7S|Your Love (9pm)|
+|Avicii|Hey Brother|
+|Bad Bunny|Tití Me Preguntó|
 |Bad Bunny and Jhayco|DÁKITI|
 |Bell Biv DeVoe|Poison|
 |Billie Eilish|all the good girls go to hell|
@@ -55,6 +57,8 @@ Updated 07-18-24
 |Billie Eilish|THE DINER|
 |Bleachers|I Wanna Get Better|
 |blink-182|YOU DON'T KNOW WHAT YOU'VE GOT|
+|BTS|Butter|
+|BTS|Dynamite|
 |DMX|X Gon' Give It To Ya|
 |Doja Cat|Paint The Town Red|
 |Doja Cat|Woman|
@@ -64,6 +68,7 @@ Updated 07-18-24
 |Elton John & Britney Spears|Hold Me Closer|
 |Epic Games|Best Buds|
 |Epic Games|Bloom|
+|Epic Games|Bouncin' Back|
 |Epic Games|Brace for Chaos|
 |Epic Games|Change|
 |Epic Games|Dreamer|
@@ -90,32 +95,37 @@ Updated 07-18-24
 |Epic Games|Winterfest Wish|
 |Epic Games|You Don't Know Me|
 |Epic Games|You're All Mine|
+|Eslabon Armado, Peso Pluma|Ella Baila Sola|
 |Far East Movement ft. The Cataracs & DEV|Like A G6|
 |Glass Animals|Creatures In Heaven|
+|Gwen Stefani|Hollaback Girl|
+|Hozier|Too Sweet|
 |Imagine Dragons|Eyes Closed|
 |J. Balvin & Willy William|Mi Gente|
 |Jack Harlow|Lovin On Me|
 |Jack Harlow|WHATS POPPIN|
 |JID ft. 21 Savage & Baby Tate|Surround Sound|
 |John Legend|All Of Me (Tiësto's Birthday Treatment Remix)|
-|Juice WRLD|Lucid Dreams|
 |Juice WLRD w/ Marshmello|Come & Go|
+|Juice WRLD|Lucid Dreams|
 |Justin Timberlake|Can't Stop The Feeling!|
 |Katy Perry|Firework|
-|Latto|Big Energy|
+|Kendrick Lamar|HUMBLE.|
+|Kendrick Lamar ft. SZA|All The Stars|
+|Lady Gaga & Ariana Grande|Rain On Me|
 |Lady Gaga|Applause|
 |Lady Gaga|Bloody Mary|
 |Lady Gaga|Stupid Love|
-|Lady Gaga & Ariana Grande|Rain On Me|
+|Latto|Big Energy|
 |Lil Jon & The East Side Boyz ft. Ying Yang Twins|Get Low|
 |Lil Mosey|Blueberry Faygo|
 |Lil Uzi Vert ft. Oh Wonder|The Way Life Goes|
+|LMFAO|Sexy And I Know It|
+|Måneskin|Beggin'|
 |Megan Thee Stallion|Savage|
 |Meghan Trainor|Me Too|
-|Metallica|For Whom The Bell Tolls|
 |Metallica|Lux Æterna|
-|Metallica|Seek & Destroy|
-|M neskin|Beggin'|
+|NF|Let You Down|
 |NickEh30|Never Back Down|
 |NLE Choppa ft. Roddy Ricch|Walk Em Down|
 |Olivia Rodrigo|vampire|
@@ -124,15 +134,33 @@ Updated 07-18-24
 |Post Malone|Better Now|
 |Post Malone ft. Morgan Wallen|I Had Some Help|
 |Rob Base & DJ EZ Rock|It Takes Two|
-|SAINt JHN|Roses (Imanbek Remix)
+|SAINt JHN|Roses (Imanbek Remix)|
+|Sean Paul|Gimme The Light|
+|Selena Gomez|Single Soon|
+|Selena Gomez w/Marshmello|Wolves|
+|Skee-Lo|I Wish|
+|Swedish House Mafia ft. John Martin|Don't You Worry Child|
+|The Weeknd, Madonna & Playboi Carti|Popular|
+|Topic w/ A7S|Breaking Me|
+|Twenty One Pilots|Next Semester|
+|U2|Beautiful Day|
+|U2|I Still Haven't Found What I'm Looking For|
+|U2|With Or Without You|
+|Vengaboys|We Like To Party! (The Vengabus)|
+|WILLOW ft. Travis Barker|t r a n s p a r e n t s o u l|
+|WitchGang|Nothing's Alright|
+|WitchGang|Runaway|
+|WitchGang|Timeless|
+|Young MC|Bust A Move|
+|Zedd, Maren Morris & Grey|The Middle|
 
 </div>
 
 ### Full Conversions
 
-**Download**: [MEGA](https://mega.nz/file/EJJBFTzQ#0fLMSPlHTLiNsDNUqRPT0bOvAE8Y1bIKkDTlRtr9gQQ)
+**Download**: [MEGA](https://mega.nz/file/JNxX3RRD#TWIYvvKZIz0HbeVi92uU1QvMG2dahIP6EZJ6ZA9TfaE)
 
-Updated 07-18-24
+Updated 07-29-24
 
 <div class="table-wrapper" markdown="block">
 
@@ -147,8 +175,9 @@ Updated 07-18-24
 |Greta Van Fleet|Highway Tune|
 |Haddaway|What Is Love|
 |John Williams, London Symphony Orchestra|Cantina Band|
+|Kendrick Lamar|i|
 |Lil Uzi Vert|XO Tour Llif3|
-|Machine Gun Kelly (ft. WILLOW)|emo girl|
+|Machine Gun Kelly ft. WILLOW|emo girl|
 |Metallica|For Whom The Bell Tolls|
 |Metallica|Fuel|
 |Metallica|Master of Puppets|
@@ -158,7 +187,7 @@ Updated 07-18-24
 |Metallica|The Unforgiven|
 |Metallica|Wherever I May Roam|
 |Miley Cyrus|Flowers|
-|Nelly (ft. City Spud)|Ride Wit Me|
+|Nelly ft. City Spud|Ride Wit Me|
 |NF|The Search|
 |Nine Inch Nails|Less Than|
 |Olivia Rodrigo|get him back!|
@@ -170,9 +199,9 @@ Updated 07-18-24
 
 ### Returning Songs
 
-**Download**: [MEGA](https://mega.nz/file/hcBi2AAS#dAv9D-dFRhxPBKnoKKjME-xB03yzU5yqQWQe8NvMPAg)
+**Download**: [MEGA](https://mega.nz/file/4JwkRQwJ#89HSYl7V0BSFVlMBk1QTihqI4kDYySql2ecsgdq09vw)
 
-Updated 07-18-24
+Updated 07-29-24
 
 <div class="table-wrapper" markdown="block">
 
@@ -186,12 +215,13 @@ Updated 07-18-24
 |Billie Eilish|bad guy|
 |Billie Eilish|Therefore I Am|
 |Blink-182|All the Small Things|
+|blink-182|What's My Age Again?|
 |Blue Öyster Cult|(Don't Fear) The Reaper|
 |Blur|Song 2|
 |Bruno Mars|24K Magic|
 |Carly Rae Jepsen|Call Me Maybe|
-|DNCE|Cake by the Ocean|
 |Disturbed|Down with the Sickness|
+|DNCE|Cake by the Ocean|
 |Epic Games|S.O.M.P.|
 |Evanescence|Bring Me To Life|
 |Fall Out Boy|My Songs Know What You Did in the Dark (Light Em Up)|
@@ -212,35 +242,27 @@ Updated 07-18-24
 |KT Tunstall|Suddenly I See|
 |Lady Gaga|Bad Romance|
 |Lady Gaga|Born This Way|
-|Lady Gaga|Just Dance|
 |Lady Gaga|Poker Face|
 |Lady Gaga|The Edge of Glory|
 |Lady Gaga ft. Colby O'Donis|Just Dance|
-|LMFAO|Party Rock Anthem (ft. Lauren Bennett & GoonRock)|
-|MGMT|Kids|
+|Linkin Park|Numb|
+|LMFAO ft. Lauren Bennett & GoonRock|Party Rock Anthem|
 |Mark Ronson ft. Bruno Mars|Uptown Funk|
 |Maroon 5|Maps|
 |Maroon 5 ft. Christina Aguilera|Moves Like Jagger|
 |Masked Wolf|Astronaut in the Ocean|
-|MGK & blackbear|my ex's best friend|
-|MGK, YUNGBLUD & Travis Barker|I Think I'm OKAY|
 |Metallica|Enter Sandman|
-|Metallica|For Whom The Bell Tolls|
-|Metallica|Fuel|
-|Metallica|Master of Puppets|
-|Metallica|Nothing Else Matters|
-|Metallica|One|
 |Metallica|Ride the Lightning|
-|Metallica|Seek & Destroy|
-|Metallica|The Unforgiven|
-|Metallica|Wherever I May Roam|
+|mgk & blackbear|my ex's best friend|
+|mgk, YUNGBLUD & Travis Barker|I Think I'm OKAY|
+|MGMT|Kids|
+|Montell Jordan|This Is How We Do It|
 |Muse|Hysteria|
 |Nicki Minaj|Starships|
 |Nine Inch Nails|March of the Pigs|
 |Nine Inch Nails|The Hand That Feeds|
 |Nirvana|Breed|
 |No Doubt|Just a Girl|
-|Olivia Rodrigo|get him back!|
 |Olivia Rodrigo|good 4 u|
 |OneRepublic|Counting Stars|
 |P!nk|So What|
@@ -248,15 +270,16 @@ Updated 07-18-24
 |Paramore|Misery Business|
 |Pat Benatar|Heartbreaker|
 |Portugal. The Man|Feel It Still|
+|Post Malone|Circles|
 |Queens of the Stone Age|Go with the Flow|
-|Rage Against The Machine|Bulls on Parade|
-|Rage Against The Machine|Killing In The Name|
+|Rage Against the Machine|Bulls on Parade|
+|Rage Against the Machine|Killing In The Name|
 |Ramones|Blitzkrieg Bop|
 |Rancid|Ruby Soho|
 |Rick James|Super Freak|
 |Rob Zombie|Dragula|
-|Sia ft. Sean Paul|Cheap Thrills|
 |Shawn Mendes|Stitches|
+|Sia ft. Sean Paul|Cheap Thrills|
 |Slipknot|Before I Forget|
 |Soundgarden|Black Hole Sun|
 |Sub Urban|Cradles|
@@ -270,8 +293,6 @@ Updated 07-18-24
 |The Killers|Mr. Brightside|
 |The Weeknd|Blinding Lights|
 |The Weeknd|Can't Feel My Face|
-|The Weeknd|Save Your Tears|
-|The Weeknd|Take My Breath|
 |The Weeknd|The Hills|
 |The White Stripes|Seven Nation Army|
 |Twenty One Pilots|Heathens|
