@@ -29,9 +29,9 @@ This repo contains Fortnite Festival songs converted and packaged for Rock Band 
 
 ### Basic Conversions
 
-**Download**: [MEGA](https://mega.nz/file/gcITiTwI#IB7k8mOfPJwzRgaU1GmPDZ3shtzJwn7CY2l0aSi2E1E)
+**Download**: [MEGA](https://mega.nz/file/XUdGzR4T#QwXm5Tu9oYVNzazafpOQ0WOuUhI2SJMoSFOI1b4ke3w)
 
-Updated 07-29-24
+Updated 08-09-24
 
 <div class="table-wrapper" markdown="block">
 
@@ -59,6 +59,8 @@ Updated 07-29-24
 |blink-182|YOU DON'T KNOW WHAT YOU'VE GOT|
 |BTS|Butter|
 |BTS|Dynamite|
+|Cage The Elephant|Ain't No Rest For The Wicked|
+|Desiigner|Panda|
 |DMX|X Gon' Give It To Ya|
 |Doja Cat|Paint The Town Red|
 |Doja Cat|Woman|
@@ -72,10 +74,12 @@ Updated 07-29-24
 |Epic Games|Brace for Chaos|
 |Epic Games|Change|
 |Epic Games|Dreamer|
+|Epic Games|Everybody Falls (Chill Mix)|
 |Epic Games|Find the Fury|
 |Epic Games|Fire and Steel|
 |Epic Games|Flickering Flame|
 |Epic Games|I'm A Cat|
+|Epic Games|Inferno Island (Molten Mix)|
 |Epic Games|Lord of the Wasteland|
 |Epic Games|Make It Known|
 |Epic Games|OG (Future Remix)|
@@ -98,6 +102,9 @@ Updated 07-29-24
 |Eslabon Armado, Peso Pluma|Ella Baila Sola|
 |Far East Movement ft. The Cataracs & DEV|Like A G6|
 |Glass Animals|Creatures In Heaven|
+|Guns N' Roses|Paradise City|
+|Guns N' Roses|Sweet Child O' Mine|
+|Guns N' Roses|Welcome To The Jungle|
 |Gwen Stefani|Hollaback Girl|
 |Hozier|Too Sweet|
 |Imagine Dragons|Eyes Closed|
@@ -112,6 +119,7 @@ Updated 07-29-24
 |Katy Perry|Firework|
 |Kendrick Lamar|HUMBLE.|
 |Kendrick Lamar ft. SZA|All The Stars|
+|Kid Cudi|Day 'N' Nite|
 |Lady Gaga & Ariana Grande|Rain On Me|
 |Lady Gaga|Applause|
 |Lady Gaga|Bloody Mary|
@@ -124,7 +132,9 @@ Updated 07-29-24
 |Måneskin|Beggin'|
 |Megan Thee Stallion|Savage|
 |Meghan Trainor|Me Too|
+|Metallica|Fade to Black|
 |Metallica|Lux Æterna|
+|Metallica|Sad But True|
 |NF|Let You Down|
 |NickEh30|Never Back Down|
 |NLE Choppa ft. Roddy Ricch|Walk Em Down|
