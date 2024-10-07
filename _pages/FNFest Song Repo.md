@@ -1,7 +1,7 @@
 ---
 title: FNFest Song Repo
 author: Jacket430
-date: 2024-09-30
+date: 2024-10-06
 category: Games
 layout: post
 ---
@@ -29,9 +29,9 @@ This repo contains Fortnite Festival songs converted and packaged for Rock Band 
 
 ### Basic Conversions
 
-**Download**: [MEGA](https://mega.nz/file/A4pEmTZb#LxDZRSgmA4nJ6YB7O81NvYMaHfGE3eRXYj96viG7Uvw)
+**Download**: [MEGA](https://mega.nz/file/ghRiCAaZ#1hwmeZmv-s-QzUWomutSYPI1irTKYUtrWngA32Hv2uc)
 
-Updated 09-30-24
+Updated 10-06-24
 
 <div class="table-wrapper" markdown="block">
 
@@ -40,7 +40,7 @@ Updated 09-30-24
 |24kGoldn|Mood (ft. iann dior)|
 |2Pac|Changes (ft. Talent)|
 |A Tribe Called Quest|Scenario (ft. Leaders of the New School)|
-|Afrojack|Take Over Control (ft. Eva Simmons)|
+|Afrojack|Take Over Control (ft. Eva Simons)|
 |Ariana Grande|positions|
 |Ariana Grande|Side to Side (ft. Nicki Minaj)|
 |Ariana Grande|the boy is mine|
@@ -100,6 +100,7 @@ Updated 09-30-24
 |Epic Games|Pea Like Me|
 |Epic Games|Return of the Tiger|
 |Epic Games|Run It|
+|Epic Games|Say It Proud|
 |Epic Games|Show Them Who We Are|
 |Epic Games|Silly Bros|
 |Epic Games|Sky Surfer (Neon Rush Remix)|
@@ -169,11 +170,14 @@ Updated 09-30-24
 |Shakira|Whenever, Wherever|
 |Skee-Lo|I Wish|
 |Swedish House Mafia|Don't You Worry Child (ft. John Martin)|
+|Taio Cruz|Dynamite|
+|Technotronic|Pump Up The Jam|
 |The Chainsmokers|Don't Let Me Down (ft. Daya)|
 |The Notorious B.I.G.|Big Poppa|
 |The Notorious B.I.G.|Juicy|
 |The Notorious B.I.G.|Notorious Thugs|
 |The Weeknd|Popular (ft. Madonna & Playboi Carti)|
+|Tiësto|The Business|
 |Topic|Breaking Me (ft. A7S)|
 |Twenty One Pilots|Next Semester|
 |U2|Beautiful Day|
