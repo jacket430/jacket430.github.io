@@ -1,7 +1,7 @@
 ---
 title: FNFest Song Repo
 author: Jacket430
-date: 2024-10-06
+date: 2024-10-11
 category: Games
 layout: post
 ---
@@ -14,8 +14,8 @@ This repo contains Fortnite Festival songs converted and packaged for Rock Band 
 
 - "Basic" and "Full" conversions do not contain the same songs.
 - Both are completely playable on Guitar, Bass and Drums.
-- "Basic" conversions are songs that have auto-generated animations and lighting effects.
-- "Basic" conversions from FNFestival are missing Vocal charts and animations in Rock Band, due to the way Vocals are charted in FNFest.
+- "Basic" conversions are songs that have auto-generated animations and lighting effects. Now including Vox animations!
+- "Basic" conversions do not have Vocal charts, as FF doesn't have traditional Vox. 
 - "Full" conversions have been hand-authored with full animations and lighting effects.
 - "Full" conversions have Vocal charts and animations in Rock Band.
 - "Full" conversions may also have Keys or Pro instruments.
@@ -23,15 +23,15 @@ This repo contains Fortnite Festival songs converted and packaged for Rock Band 
 ### "Returning" Songs
 
 - Songs that have already been featured in previous Rock Band entries to avoid duplicates.
-- Not separated into "Basic" and "Full", will upon request.
+- Not separated into "Basic" and "Full", can/will upon request.
 
 ## Downloads
 
 ### Basic Conversions
 
-**Download**: [MEGA](https://mega.nz/file/ghRiCAaZ#1hwmeZmv-s-QzUWomutSYPI1irTKYUtrWngA32Hv2uc)
+**Download**: [MEGA](https://mega.nz/file/Uh4RxJBQ#yyGxZIdCr6AqbCUDBIYJvBfGEeSUHAJVmkdUjPy6FiA)
 
-Updated 10-06-24
+Updated 10-11-24
 
 <div class="table-wrapper" markdown="block">
 
@@ -53,6 +53,7 @@ Updated 10-06-24
 |Bad Bunny|Tití Me Preguntó|
 |Bell Biv DeVoe|Poison|
 |Billie Eilish|all the good girls go to hell|
+|Billie Eilish|bury a friend|
 |Billie Eilish|CHIHIRO|
 |Billie Eilish|Happier Than Ever (Edit)|
 |Billie Eilish|LUNCH|
@@ -91,18 +92,23 @@ Updated 10-06-24
 |Epic Games|Gwenpool's Multiverse|
 |Epic Games|I'm a Cat|
 |Epic Games|I'm a Winner|
+|Epic Games|Inferno Island|
 |Epic Games|Inferno Island (Molten Mix)|
 |Epic Games|Keep Poppin|
 |Epic Games|Lord of the Wasteland|
 |Epic Games|Make It Known|
+|Epic Games|Nightmare's Choice|
+|Epic Games|Ocean Breeze Beats|
 |Epic Games|OG (Future Remix)|
 |Epic Games|Orbital Overload|
+|Epic Games|Paradise Pulse|
 |Epic Games|Pea Like Me|
 |Epic Games|Return of the Tiger|
 |Epic Games|Run It|
 |Epic Games|Say It Proud|
 |Epic Games|Show Them Who We Are|
 |Epic Games|Silly Bros|
+|Epic Games|Sizzlin' Sunshine|
 |Epic Games|Sky Surfer (Neon Rush Remix)|
 |Epic Games|Streets Ignite|
 |Epic Games|Sweet Victory|
@@ -112,6 +118,7 @@ Updated 10-06-24
 |Epic Games|The Claw|
 |Epic Games|The Hunting Ground|
 |Epic Games|The Night Porter|
+|Epic Games|Tropical Heat|
 |Epic Games|Way Too Fast|
 |Epic Games|Winterfest Wish|
 |Epic Games|You Don't Know Me|
@@ -167,7 +174,6 @@ Updated 10-06-24
 |Sean Paul|Gimme the Light|
 |Selena Gomez|Single Soon|
 |Selena Gomez|Wolves (ft. Marshmello)|
-|Shakira|Whenever, Wherever|
 |Skee-Lo|I Wish|
 |Swedish House Mafia|Don't You Worry Child (ft. John Martin)|
 |Taio Cruz|Dynamite|
@@ -195,9 +201,9 @@ Updated 10-06-24
 
 ### Full Conversions
 
-**Download**: [MEGA](https://mega.nz/file/wxAhCDAB#57EY4hgwMs6_FvMUD0DTyPRksJfbJFl5ONtRZf6qZt4)
+**Download**: [MEGA](https://mega.nz/file/R1gmmBIJ#Fv1ltWIaVuJNO-w0IE9XTtb45xvefBucXhtC0DsC2dk)
 
-Updated 09-30-24
+Updated 10-11-24
 
 <div class="table-wrapper" markdown="block">
 
@@ -237,6 +243,7 @@ Updated 09-30-24
 |Olivia Rodrigo|get him back!|
 |Olivia Rodrigo|vampire|
 |PSY|Gangnam Style|
+|Shakira|Whenever, Wherever|
 |The Weeknd|Save Your Tears|
 |The Weeknd|Take My Breath|
 
@@ -244,7 +251,7 @@ Updated 09-30-24
 
 ### Returning Songs
 
-**Download**: [MEGA](https://mega.nz/file/ohoQDIqZ#-zedO5mM8LmKwioGHTtTAOl2WoiLR683e_kKAcACmn4)
+**Download**: [MEGA](https://mega.nz/file/FpZzGa4R#Nj6gLBROPvvoF5en5szqVN8KqTvzI9UaWSLeb5Etdzo)
 
 Updated 09-30-24
 
@@ -325,6 +332,7 @@ Updated 09-30-24
 |Panic at the Disco|High Hopes|
 |Paramore|Misery Business|
 |Pat Benatar|Heartbreaker|
+|Pharrell Williams|Happy|
 |Portugal. The Man|Feel It Still|
 |Post Malone|Circles|
 |Queens of the Stone Age|Go with the Flow|
@@ -339,6 +347,7 @@ Updated 09-30-24
 |Slipknot|Before I Forget|
 |Slipknot|Unsainted|
 |Soundgarden|Black Hole Sun|
+|Soundgarden|Fell On Black Days|
 |Sub Urban|Cradles|
 |Sublime|Santeria|
 |Sublime|What I Got|
@@ -356,5 +365,7 @@ Updated 09-30-24
 |Twenty One Pilots|Heathens|
 |Twenty One Pilots|Stressed Out|
 |Weezer|Buddy Holly|
+|Weezer|Say It Ain't So|
+|Weezer|Undone - The Sweater Song|
 
 </div>
