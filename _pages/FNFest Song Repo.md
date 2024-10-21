@@ -1,7 +1,7 @@
 ---
 title: FNFest Song Repo
 author: Jacket430
-date: 2024-10-11
+date: 2024-10-20
 category: Games
 layout: post
 ---
@@ -17,7 +17,7 @@ This repo contains Fortnite Festival songs converted and packaged for Rock Band 
 - "Basic" conversions are songs that have auto-generated animations and lighting effects. Now including Vox animations!
 - "Basic" conversions do not have Vocal charts, as FF doesn't have traditional Vox. 
 - "Full" conversions have been hand-authored with full animations and lighting effects.
-- "Full" conversions have Vocal charts and animations in Rock Band.
+- "Full" conversions have Vocal charts.
 - "Full" conversions may also have Keys or Pro instruments.
 
 ### "Returning" Songs
@@ -29,9 +29,9 @@ This repo contains Fortnite Festival songs converted and packaged for Rock Band 
 
 ### Basic Conversions
 
-**Download**: [MEGA](https://mega.nz/file/Uh4RxJBQ#yyGxZIdCr6AqbCUDBIYJvBfGEeSUHAJVmkdUjPy6FiA)
+**Download**: [MEGA](https://mega.nz/file/EpxRHRpQ#gHhP4cvgNaFZ7FxByn9nJNfIE9r-9S6okYQpqUSh_1Y)
 
-Updated 10-11-24
+Updated 10-20-24
 
 <div class="table-wrapper" markdown="block">
 
@@ -61,7 +61,6 @@ Updated 10-11-24
 |Billie Eilish|THE DINER|
 |Bleachers|I Wanna Get Better|
 |blink-182|YOU DON'T KNOW WHAT YOU'VE GOT|
-|Britney Spears|Toxic|
 |BTS|Butter|
 |BTS|Dynamite|
 |Cage the Elephant|Ain't No Rest for the Wicked|
@@ -170,6 +169,7 @@ Updated 10-11-24
 |Rae Sremmurd|Black Beatles (ft. Gucci Mane)|
 |Rob Base|It Takes Two (ft. DJ EZ Rock)|
 |Sabrina Carpenter|Espresso|
+|Sabrina Carpenter|Feather|
 |SAINt JHN|Roses (Imanbek Remix)|
 |Sean Paul|Gimme the Light|
 |Selena Gomez|Single Soon|
@@ -201,9 +201,9 @@ Updated 10-11-24
 
 ### Full Conversions
 
-**Download**: [MEGA](https://mega.nz/file/R1gmmBIJ#Fv1ltWIaVuJNO-w0IE9XTtb45xvefBucXhtC0DsC2dk)
+**Download**: [MEGA](https://mega.nz/file/w4YXgTYR#EaXkTqFzx3KU98qhQrkhkMMLNAqZjGshcNo_uKRdX8g)
 
-Updated 10-11-24
+Updated 10-20-24
 
 <div class="table-wrapper" markdown="block">
 
@@ -212,10 +212,12 @@ Updated 10-11-24
 |Alice Deejay|Better Off Alone|
 |Aqua|Barbie Girl|
 |Ariana Grande|Into You|
+|Britney Spears|Toxic|
 |Darude|Sandstorm|
 |Doja Cat|Say So|
 |Epic Games|8-Bit Beat|
 |Epic Games|Butter Barn Hoedown|
+|Epic Games|Dreamer (RB3 Version)|
 |Greta Van Fleet|Highway Tune|
 |Guns N' Roses|Sweet Child O' Mine|
 |Guns N' Roses|Welcome to the Jungle|
@@ -251,9 +253,9 @@ Updated 10-11-24
 
 ### Returning Songs
 
-**Download**: [MEGA](https://mega.nz/file/FpZzGa4R#Nj6gLBROPvvoF5en5szqVN8KqTvzI9UaWSLeb5Etdzo)
+**Download**: [MEGA](https://mega.nz/file/ZtoBzQBb#j65Zj9g-N-7JHgl-XHNcAL7QQtedFfMtMrSH0ZS4VNg)
 
-Updated 09-30-24
+Updated 10-20-24
 
 <div class="table-wrapper" markdown="block">
 
@@ -263,6 +265,7 @@ Updated 09-30-24
 |Alice in Chains|Would?|
 |All-American Rejects|Dirty Little Secret|
 |Avenged Sevenfold|Hail to the King|
+|Avenged Sevenfold|Nightmare|
 |Bastille|Pompeii|
 |Beastie Boys|Sabotage|
 |Billie Eilish|bad guy|
@@ -274,6 +277,7 @@ Updated 09-30-24
 |Bruno Mars|24K Magic|
 |Carly Rae Jepsen|Call Me Maybe|
 |Disturbed|Down with the Sickness|
+|Disturbed|The Sound of Silence|
 |DNCE|Cake by the Ocean|
 |Earth, Wind & Fire|September|
 |Epic Games|S.O.M.P.|
@@ -315,12 +319,13 @@ Updated 09-30-24
 |Maroon 5|Maps|
 |Maroon 5 ft. Christina Aguilera|Moves Like Jagger|
 |Masked Wolf|Astronaut in the Ocean|
-|MGMT|Kids|
 |Metallica|Battery|
 |Metallica|Enter Sandman|
 |Metallica|Ride the Lightning|
+|MGMT|Kids|
 |Montell Jordan|This Is How We Do It|
 |Muse|Hysteria|
+|My Chemical Romance|I'm Not Okay (I Promise)|
 |Nicki Minaj|Starships|
 |Nine Inch Nails|March Of The Pigs|
 |Nine Inch Nails|The Hand That Feeds|
@@ -347,7 +352,7 @@ Updated 09-30-24
 |Slipknot|Before I Forget|
 |Slipknot|Unsainted|
 |Soundgarden|Black Hole Sun|
-|Soundgarden|Fell On Black Days|
+|Soundgarden|Fell on Black Days|
 |Sub Urban|Cradles|
 |Sublime|Santeria|
 |Sublime|What I Got|
@@ -357,6 +362,7 @@ Updated 09-30-24
 |The Cranberries|Zombie|
 |The Cure|Friday I'm in Love|
 |The Killers|Mr. Brightside|
+|The Killers|Somebody Told Me|
 |The Weeknd|Blinding Lights|
 |The Weeknd|Can't Feel My Face|
 |The Weeknd|The Hills|
