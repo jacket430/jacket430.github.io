@@ -1,7 +1,7 @@
 ---
 title: RB4 Song Repo
 author: Jacket430
-date: 2024-07-29
+date: 2024-10-22
 category: Games
 layout: post
 ---
@@ -14,9 +14,11 @@ This repo contains Rock Band 4 songs converted and packaged for Rock Band 3 Delu
 
 ### Rock Band 4 (Disc)
 
-**Download**: [MEGA](https://mega.nz/file/5MpEAYjK#2RdMGU_SFUQGDrtefkMCL1eGv9mHsVeSesMk9vkKRPQ)
+(Folder name "RB4Disc")
 
-Updated 07-29-24
+**Download**: [MEGA](https://mega.nz/file/4c5jjRqA#EICAviiqLh3KWkdjKDxuGYc03h2_D4pCKqCO797aliI)
+
+Updated 10-22-24
 
 <div class="table-wrapper" markdown="block">
 
@@ -28,7 +30,7 @@ Updated 07-29-24
 |Arctic Monkeys|Arabella|
 |Avenged Sevenfold|Hail to the King|
 |Benjamin Booker|Violent Shiver|
-|Brad Paisley ft. Keith Urban|Start a Band|
+|Brad Paisley|Start a Band (ft. Keith Urban)|
 |Brandi Carlile|Mainstream Kid|
 |Cake|Short Skirt/Long Jacket|
 |Dark Wheels|V-Bomb|
@@ -48,7 +50,7 @@ Updated 07-29-24
 |Heaven's Basement|I Am Electric|
 |Imagine Dragons|I Bet My Life|
 |Jack White|Lazaretto|
-|Jeff Allen ft. Noelle LeBlanc and Naoko Takamoto|Recession|
+|Jeff Allen|Recession (ft. Noelle LeBlanc and Naoko Takamoto)|
 |Johnny Blazes and The Pretty Boys|Cold Clear Light|
 |Judas Priest|Halls of Valhalla|
 |Lightning Bolt|Dream Genie|
@@ -56,7 +58,7 @@ Updated 07-29-24
 |Live|All Over You|
 |Lucius|Turn It Around|
 |Lynyrd Skynyrd|That Smell|
-|Mark Ronson ft. Bruno Mars|Uptown Funk|
+|Mark Ronson|Uptown Funk (ft. Bruno Mars)|
 |Mumford & Sons|The Wolf|
 |Ozzy Osbourne|Miracle Man|
 |Paramore|Still Into You|
@@ -90,11 +92,31 @@ Updated 07-29-24
 
 </div>
 
+### Rock Band 4 (Disc) (2x Bass Pedal)
+
+(Folder name "RB4Disc2x")
+
+**Download**: [MEGA](https://mega.nz/file/AFhggTDR#e60sCiRNQRvANkVFbDYglHFiO20p2TXW347vvqQvqAA)
+
+Updated 10-22-24
+
+<div class="table-wrapper" markdown="block">
+
+|Artist|Song|
+|:-:|:-:|
+|Dream Theater|Metropolis - Part 1 "The Miracle and the Sleeper" (2x Bass Pedal)|
+|Ozzy Osbourne|Miracle Man (2x Bass Pedal)|
+|Soul Remnants|Dead Black (Heart of Ice) (2x Bass Pedal)|
+
+</div>
+
 ### Rock Band 4 Rivals
 
-**Download**: [MEGA](https://mega.nz/file/1FxzCIgJ#aeuLgELLhLEdVyJ2sOkqzY9wct-9PwYmS5QmnW-f06A)
+(Folder name "RB4Rivals")
 
-Updated 07-29-24
+**Download**: [MEGA](https://mega.nz/file/sBhGUaAQ#uSQS9EF-WQAnQDGJY-_5PbWBwO5dgGymQUG5Ea-y2Rw)
+
+Updated 10-22-24
 
 <div class="table-wrapper" markdown="block">
 
@@ -127,11 +149,29 @@ Updated 07-29-24
 
 </div>
 
+### Rock Band 4 Rivals (2x Bass Pedal)
+
+(Folder name "RB4Rivals2x")
+
+**Download**: [MEGA](https://mega.nz/file/pBRwRKyL#4SqYsw4fxgYXaO8rQ1uwZUhQr-fPNAEsqwQVhE8lkGc)
+
+Updated 10-22-24
+
+<div class="table-wrapper" markdown="block">
+
+|Artist|Song|
+|:-:|:-:|
+|The Red Chord|Hour of Rats (2x Bass Pedal)|
+
+</div>
+
 ### Rock Band 4 (DLC 1)
 
-**Download**: [MEGA](https://mega.nz/file/wIwGGbxA#lw-1lwGUVe4U-VI8iCXqxErUa1voYtx1m9pyM4uKG-I)
+(Folder name "RB4DLC1")
 
-Updated 07-29-24
+**Download**: [MEGA](https://mega.nz/file/IJgAmTbL#9nR2syYNFZOB1ZBwbO8npT2xGITxH3ZzcMS5BXn2JfA)
+
+Updated 10-22-24
 
 <div class="table-wrapper" markdown="block">
 
@@ -153,16 +193,16 @@ Updated 07-29-24
 |Beastie Boys|Fight for Your Right|
 |Beck|Devils Haircut|
 |Belinda Carlisle|Heaven Is a Place on Earth|
-|Blue Swede|Hooked on a Feeling|
 |Blue Öyster Cult|Burnin' for You|
+|Blue Swede|Hooked on a Feeling|
+|BØRNS|Electric Love|
 |Breaking Benjamin|Failure|
-|Breaking Benjamin ft. Scooter Ward|Far Away|
+|Breaking Benjamin|Far Away (ft. Scooter Ward)|
 |Bring Me the Horizon|Drown|
 |Bruno Mars|24K Magic|
-|BØRNS|Electric Love|
 |Chuck Berry|Johnny B. Goode|
 |Cyndi Lauper|Girls Just Want to Have Fun|
-|Daft Punk ft. Pharrell Williams|Get Lucky|
+|Daft Punk|Get Lucky (ft. Pharrell Williams)|
 |Deee-Lite|Groove Is in the Heart|
 |Depeche Mode|Enjoy the Silence|
 |Dexys Midnight Runners|Come On Eileen|
@@ -172,7 +212,7 @@ Updated 07-29-24
 |Dolly Spartans|I Hear the Dead|
 |DragonForce|Highway to Oblivion|
 |Elle King|Ex's & Oh's|
-|Elton John & Dua Lipa|Cold Heart (PNAU Remix)|
+|Elton John - Dua Lipa|Cold Heart (PNAU Remix)|
 |Fuel|Hemorrhage (In My Hands)|
 |Generation X|Dancing with Myself|
 |Ghost|Cirice|
@@ -191,7 +231,7 @@ Updated 07-29-24
 |Linkin Park|Given Up|
 |Lizzo|Juice|
 |Machine Gun Kelly|bloody valentine|
-|Macklemore & Ryan Lewis ft. Ray Dalton|Can't Hold Us|
+|Macklemore & Ryan Lewis|Can't Hold Us (ft. Ray Dalton)|
 |Masked Wolf|Astronaut in the Ocean|
 |Mastodon|High Road|
 |Matchbox Twenty|3AM|
@@ -199,7 +239,7 @@ Updated 07-29-24
 |Meredith Brooks|Bitch|
 |Michelle Branch|All You Wanted|
 |Nine Days|Absolutely (Story of a Girl)|
-|Nita Strauss ft. David Draiman|Dead Inside|
+|Nita Strauss|Dead Inside (ft. David Draiman)|
 |Oasis|Champagne Supernova|
 |Olivia Rodrigo|good 4 u|
 |Opeth|Heir Apparent|
@@ -209,16 +249,16 @@ Updated 07-29-24
 |Paramore|Hard Times|
 |Player|Baby Come Back|
 |Post Malone|Circles|
-|Public Enemy ft. Anthrax|Bring tha Noize|
+|Public Enemy|Bring tha Noize (ft. Anthrax)|
 |Ram Jam|Black Betty|
 |Red Hot Chili Peppers|Black Summer|
 |Redbone|Come and Get Your Love|
 |Robert Palmer|Bad Case of Loving You (Doctor, Doctor)|
-|Robin Thicke ft. Pharrell|Blurred Lines|
+|Robin Thicke|Blurred Lines (ft. Pharrell)|
 |Rupert Holmes|Escape (The Piña Colada Song)|
 |Rush|Freewill (Vault Edition)|
 |Sammy Hagar|I Can't Drive 55|
-|Seether ft. Amy Lee|Broken|
+|Seether|Broken (ft. Amy Lee)|
 |Semisonic|Closing Time|
 |Sia|Chandelier|
 |Simple Minds|Don't You (Forget About Me)|
@@ -230,7 +270,7 @@ Updated 07-29-24
 |Taking Back Sunday|Cute Without the 'E' (Cut from the Team)|
 |Teenage Wrist|Earth Is a Black Hole|
 |The Black Eyed Peas|I Gotta Feeling|
-|The Chainsmokers ft. Halsey|Closer|
+|The Chainsmokers|Closer (ft. Halsey)|
 |The Fall of Troy|F.C.P.R.E.M.I.X.|
 |The Fratellis|Chelsea Dagger|
 |The Killers|Caution|
@@ -255,17 +295,21 @@ Updated 07-29-24
 
 ### Rock Band 4 (DLC 2)
 
-**Download**: [MEGA](https://mega.nz/file/HQUTUZjD#ApwLrW1Gj9vbk32E-b4t9W31IoVlsysIX-ejGCiS3sg)
+(Folder name "RB4DLC2")
 
-Updated 07-29-24
+**Download**: [MEGA](https://mega.nz/file/NFJX1YqJ#-U9P53pxoMj44qNnXKZpkH0lMXvyz8RJXBKeEXBaSgg)
+
+Updated 10-22-24
 
 <div class="table-wrapper" markdown="block">
 
 |Artist|Song|
 |:-:|:-:|
 |Ace of Base|The Sign|
+|Aerosmith|Livin' on the Edge|
 |Aerosmith|Love in an Elevator|
 |Aerosmith|Rag Doll|
+|Alice Cooper|No More Mr. Nice Guy|
 |Alice in Chains|Them Bones|
 |Audioslave|Like a Stone|
 |Avenged Sevenfold|The Stage|
@@ -288,13 +332,18 @@ Updated 07-29-24
 |Darius Rucker|Wagon Wheel|
 |Dee Gees|You Should Be Dancing|
 |Depeche Mode|People Are People|
+|Disturbed|The Sound of Silence|
 |Disturbed|The Vengeful One|
 |DragonForce|Through the Fire and Flames (RB4 version)|
+|Dream Theater|Pull Me Under|
 |Duran Duran|The Reflex|
 |Eagle-Eye Cherry|Save Tonight|
+|Earth, Wind & Fire|September|
 |Ed Sheeran|Sing|
+|Falling in Reverse|Popular Monster|
 |Five Finger Death Punch|Wrong Side of Heaven|
 |Foghat|Slow Ride|
+|Fountains of Wayne|Stacy's Mom|
 |Ghost|Rats|
 |Goldfinger|Superman|
 |Hall & Oates|You Make My Dreams|
@@ -305,15 +354,25 @@ Updated 07-29-24
 |Imagine Dragons|Radioactive|
 |Imagine Dragons|Thunder|
 |Incubus|Stellar|
+|Jane's Addiction|Stop!|
+|Jeff Williams|This Will Be the Day (ft. Casey Lee Williams)|
+|Jeff Williams|Time to Say Goodbye (ft. Casey Lee Williams)|
+|John Denver|Take Me Home, Country Roads|
 |Justin Bieber|Love Yourself|
 |Kings of Leon|Use Somebody|
+|Lil Nas X|Old Town Road (Remix) (ft. Billy Ray Cyrus)|
+|Limp Bizkit|Rollin' (Air Raid Vehicle)|
 |Linkin Park|Lying from You|
+|LMFAO|Party Rock Anthem (ft. Lauren Bennett & GoonRock)|
 |Los Lobos|La Bamba|
-|MGMT|Kids|
+|Magic!|Rude|
 |Maroon 5|Maps|
 |Matchbox Twenty|Unwell|
 |Megadeth|Trust|
+|MGMT|Kids|
+|Muse|Knights of Cydonia|
 |Muse|Starlight|
+|Muse|Won't Stand Down|
 |My Chemical Romance|The Foundations of Decay|
 |Natalie Imbruglia|Torn|
 |Natasha Bedingfield|Unwritten|
@@ -323,24 +382,34 @@ Updated 07-29-24
 |One Direction|Story of My Life|
 |Papa Roach|No Apologies|
 |Peter Frampton|Show Me the Way (Live)|
+|Pierce the Veil|King for a Day (ft. Kellin Quinn)|
 |Pierce the Veil|Pass the Nirvana|
 |Portugal. The Man|Live in the Moment|
 |Radiohead|Karma Police|
 |Rick James|Super Freak|
 |Scorpions|Rock You Like a Hurricane|
+|Shania Twain|Man! I Feel Like a Woman!|
+|Shania Twain|That Don't Impress Me Much|
 |Shawn Mendes|Stitches|
 |Shawn Mendes|Treat You Better|
 |Sheryl Crow|Soak Up the Sun|
-|Simple Plan & State Champs ft. We the Kings|Where I Belong|
+|Simple Plan & State Champs|Where I Belong (ft. We the Kings)|
 |Staind|Outside|
 |Stone Temple Pilots|Wicked Garden|
 |Stray Cats|Rock This Town|
+|Ted Nugent|Stranglehold|
 |The Cranberries|Zombie|
 |The Cure|Lovesong|
+|The Offspring|You're Gonna Go Far, Kid|
+|The Romantics|What I Like About You|
+|The Weeknd|Starboy (ft. Daft Punk)|
+|The Weeknd|The Hills|
 |Third Eye Blind|Jumper|
 |Three Days Grace|Never Too Late|
 |Twenty One Pilots|Stressed Out|
+|Twisted Sister|We're Not Gonna Take It|
 |UB40|Red Red Wine|
+|Van Halen|Runnin' with the Devil|
 |Van Halen|Unchained|
 |Veruca Salt|Seether|
 |Walk the Moon|Shut Up and Dance|
@@ -348,41 +417,35 @@ Updated 07-29-24
 |Wheatus|Teenage Dirtbag (2020)|
 |Wild Cherry|Play That Funky Music|
 |Winger|Seventeen|
-|Falling in Reverse|Popular Monster|
-|Aerosmith|Livin' on the Edge|
-|Alice Cooper|No More Mr. Nice Guy|
-|Disturbed|The Sound of Silence|
-|Dream Theater|Pull Me Under|
-|Earth, Wind & Fire|September|
-|Fountains of Wayne|Stacy's Mom|
-|Jane's Addiction|Stop!|
-|Jeff Williams ft. Casey Lee Williams|This Will Be the Day|
-|Jeff Williams ft. Casey Lee Williams|Time to Say Goodbye|
-|John Denver|Take Me Home, Country Roads|
-|LMFAO ft. Lauren Bennett & GoonRock|Party Rock Anthem|
-|Lil Nas X ft. Billy Ray Cyrus|Old Town Road (Remix)|
-|Limp Bizkit|Rollin' (Air Raid Vehicle)|
-|Magic!|Rude|
-|Muse|Knights of Cydonia|
-|Muse|Won't Stand Down|
-|Pierce the Veil ft. Kellin Quinn|King for a Day|
-|Shania Twain|Man! I Feel Like a Woman!|
-|Shania Twain|That Don't Impress Me Much|
-|Ted Nugent|Stranglehold|
-|The Offspring|You're Gonna Go Far, Kid|
-|The Romantics|What I Like About You|
-|The Weeknd ft. Daft Punk|Starboy|
-|The Weeknd|The Hills|
-|Twisted Sister|We're Not Gonna Take It|
-|Van Halen|Runnin' with the Devil|
+
+</div>
+
+### Rock Band 4 (DLC 2) (2x Bass Pedal)
+
+(Folder name "RB4DLC22x")
+
+**Download**: [MEGA](https://mega.nz/file/wYZgiRaQ#gurIdJ4xInKE_pRbG87dep3Tod6CXU6DtKRuEQk3ZK4)
+
+Updated 10-22-24
+
+<div class="table-wrapper" markdown="block">
+
+|Artist|Song|
+|:-:|:-:|
+|Avenged Sevenfold|The Stage (2x Bass Pedal)|
+|Public Enemy ft. Anthrax|Bring tha Noize (2x Bass Pedal)|
+|Ram Jam|Black Betty (2x Bass Pedal)|
+|Van Halen|Hot For Teacher (2x Bass Pedal)|
 
 </div>
 
 ### Rock Band 4 (DLC 3)
 
-**Download**: [MEGA](https://mega.nz/file/qI9U3LDS#4-7apcYXRof4AtVgN7tF7qSCFT8mz7sIQBYGZkpiKaU)
+(Folder name "RB4DLC3")
 
-Updated 07-29-24
+**Download**: [MEGA](https://mega.nz/file/FQYihBYB#StZl-vAKr5W0ngQjepLtuEhLj81htMyZzRYMiBAkBsw)
+
+Updated 10-22-24
 
 <div class="table-wrapper" markdown="block">
 
@@ -475,9 +538,11 @@ Updated 07-29-24
 
 ### Rock Band 4 (DLC 4)
 
-**Download**: [MEGA](https://mega.nz/file/yI1nXShZ#FKzfQVKUce-Dia8A_Im17ViJ4G0ZgXUkWtnWuDkg9Ec)
+(Folder name "RB4DLC4")
 
-Updated 07-29-24
+**Download**: [MEGA](https://mega.nz/file/AAgQVB7Z#NIu0cyc4s1wQ5yHOZoyl5j8AOHQ-EnBusu1a1a6uphc)
+
+Updated 10-22-24
 
 <div class="table-wrapper" markdown="block">
 
@@ -651,9 +716,11 @@ Updated 07-29-24
 
 ### Rock Band 4 (DLC 5)
 
-**Download**: [MEGA](https://mega.nz/file/XYkBiDiJ#GEQfZ4FFnLuyyH-Rowcrq9j0CUKAgvPyyUX-HPrsPu4)
+(Folder name "RB4DLC5")
 
-Updated 07-29-24
+**Download**: [MEGA](https://mega.nz/file/EU5E2axY#7lA13DlvFH377d_WqemVaKZbBBiXDePXCsjog0Nsiow)
+
+Updated 10-22-24
 
 <div class="table-wrapper" markdown="block">
 
@@ -741,11 +808,11 @@ Updated 07-29-24
 |Lit|Mouth Shut|
 |Little River Band|Reminiscing|
 |Local Natives|When Am I Gonna Lose You|
-|Looking Glass|Brandy (You're A Fine Girl)|
+|Looking Glass|Brandy (You're a Fine Girl)|
 |Lorde|Royals|
 |Luke Bryan|That's My Kind of Night|
+|Machine Gun Kelly|I Think I'm OKAY (ft. YUNGBLUD & Travis Barker)|
 |Machine Gun Kelly|My Ex's Best Friend (ft. blackbear)|
-|Machine Gun Kelly, YUNGBLUD & Travis Barker|I Think I'm OKAY|
 |Magnolia Park|Addison Rae|
 |Magnolia Park|Tonight (ft. Lil Lotus)|
 |Mammoth WVH|Distance|
@@ -763,7 +830,7 @@ Updated 07-29-24
 |Mom Jeans.|Girl Scout Cookies|
 |Mom Jeans.|White Trash Millionaire|
 |Montell Jordan|This Is How We Do It|
-|Motorhead|Thunder & Lightning|
+|Motörhead|Thunder & Lightning|
 |Mumford & Sons|Blind Leading the Blind|
 |Mumford & Sons|I Will Wait|
 |My Kid Brother|High Society|
@@ -825,9 +892,9 @@ Updated 07-29-24
 
 ### Rock Band 4 (DLC 6)
 
-**Download**: [MEGA](https://mega.nz/file/qR01VRoT#L1KL-S1etiMPcxPhuEF6zdsdDf3N31USOP30nV-y4gc)
+**Download**: [MEGA](https://mega.nz/file/gVgjABxB#tFqEuwjbHee2lFVVk_Tg4k_1qYDvvE7kBfJtYgUrng4)
 
-Updated 07-29-24
+Updated 10-22-24
 
 <div class="table-wrapper" markdown="block">
 
@@ -896,8 +963,8 @@ Updated 07-29-24
 |The Black Keys|Gold on the Ceiling|
 |The Black Keys|Wild Child|
 |The Blue Stones|Let Me Out|
-|The Bouncing Souls|Back to Better|
 |The Bouncing Souls|¡Olé!|
+|The Bouncing Souls|Back to Better|
 |The Brevet|Locked & Loaded|
 |The Brevet|Shapeshifter|
 |The Cranberries|Dreams|
@@ -955,7 +1022,7 @@ Updated 07-29-24
 |TOWNS|Season 5 (Break My Fall)|
 |Tracy Bonham|Mother Mother|
 |Trevor Daniel|Falling|
-|Trivium|The Heart From Your Hate|
+|Trivium|The Heart from Your Hate|
 |Twenty One Pilots|Level of Concern|
 |Twenty One Pilots|Ride|
 |Two Door Cinema Club|What You Know|
