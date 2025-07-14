@@ -98,9 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
-  src: /assets/images/avatar.png
-  alt: Profile Picture by SoopJoops
+avatar: https://i.imgur.com/VVg6Mh6.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
