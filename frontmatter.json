@@ -62,6 +62,11 @@
           "title": "mermaid",
           "name": "mermaid",
           "type": "boolean"
+        },
+        {
+          "title": "permalink",
+          "name": "permalink",
+          "type": "string"
         }
       ]
     }
