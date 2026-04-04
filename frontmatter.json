@@ -64,21 +64,23 @@
           "type": "boolean"
         },
         {
-          "title": "permalink",
-          "name": "permalink",
-          "type": "string"
+          "title": "lastmod",
+          "name": "lastmod",
+          "type": "datetime"
         }
       ]
     }
   ],
   "frontMatter.framework.id": "jekyll",
   "frontMatter.content.publicFolder": "assets",
-  "frontMatter.preview.host": "http://localhost:9439",
+  "frontMatter.preview.host": "http://localhost:4000",
   "frontMatter.content.pageFolders": [
     {
-      "title": "posts",
-      "path": "[[workspace]]/_posts"
+      "title": "_pages",
+      "path": "[[workspace]]/_pages"
     }
   ],
-  "frontMatter.framework.startCommand": "bundle exec jekyll serve --livereload --port 9439"
+  "frontMatter.framework.startCommand": "bundle exec jekyll serve --livereload --port 9439",
+  "frontMatter.website.host": "https://jacket430.github.io/",
+  "frontMatter.git.enabled": false
 }

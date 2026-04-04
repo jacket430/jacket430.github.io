@@ -49,6 +49,42 @@
     }
 }
 
+.info-tooltip {
+    position: relative;
+    display: inline-block;
+}
+
+.info-icon {
+    display: inline-block;
+    color: #666;
+    cursor: help;
+    margin-left: 5px;
+    font-size: 0.9em;
+}
+
+.info-tooltip .tooltip-text {
+    visibility: hidden;
+    width: 200px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -100px;
+    opacity: 0;
+    transition: opacity 0.3s;
+    font-size: 0.8em;
+}
+
+.info-tooltip:hover .tooltip-text {
+    visibility: visible;
+    opacity: 1;
+}
+
 .book .book-body .book-header {
     background: #ffffff;
 }
@@ -62,11 +98,11 @@
 }
 
 .page-inner {
-    max-width: {{ site.page_width | default: '800px' }};
+    max-width: 800px;
 }
 
 .back-to-top {
-    right: calc((100% - 300px - min(100% - 300px, {{ site.page_width | default: '800px' }})) / 2 + 25px);
+    right: calc((100% - 300px - min(100% - 300px, 800px)) / 2 + 25px);
 }
 
 /* scrollbar */
