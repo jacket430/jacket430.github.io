@@ -53,12 +53,16 @@ collections:
   pages:
     output: true
     permalink: /:collection/:path/
+  payday2:
+    output: true
+    permalink: /:collection/:path/
   others:
     output: true
     permalink: /:collection/:path/
 
 ordered_collections:
   - posts
+  - payday2
   - pages
   - others
 

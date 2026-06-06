@@ -39,11 +39,6 @@
           "type": "tags"
         },
         {
-          "title": "Categories",
-          "name": "categories",
-          "type": "categories"
-        },
-        {
           "title": "author",
           "name": "author",
           "type": "string"
@@ -57,11 +52,6 @@
           "title": "layout",
           "name": "layout",
           "type": "string"
-        },
-        {
-          "title": "mermaid",
-          "name": "mermaid",
-          "type": "boolean"
         },
         {
           "title": "lastmod",
@@ -78,9 +68,14 @@
     {
       "title": "_pages",
       "path": "[[workspace]]/_pages"
+    },
+    {
+      "title": "_payday2",
+      "path": "[[workspace]]/_payday2"
     }
   ],
   "frontMatter.framework.startCommand": "bundle exec jekyll serve --livereload --port 9439",
   "frontMatter.website.host": "https://jacket430.github.io/",
-  "frontMatter.git.enabled": false
+  "frontMatter.git.enabled": false,
+  "frontMatter.git.commitMessage": "Updated some bullshit idk"
 }
