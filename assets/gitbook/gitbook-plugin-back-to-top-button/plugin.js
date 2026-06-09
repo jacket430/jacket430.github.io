@@ -3,10 +3,8 @@ require([
     'jquery'
 ], function(gitbook, $) {
     gitbook.events.on('page.change', function() {
-        var back_to_top_button = ['<div class="back-to-top"><i class="fa fa-arrow-up"></i></div>'].join("");
+        var back_to_top_button = ['<div class="back-to-top" style="display: none;"><i class="fa fa-arrow-up"></i></div>'].join("");
         $(".page-wrapper").append(back_to_top_button)
-    
-        $(".back-to-top").hide();
 
         $(".back-to-top").hover(function() {
             $(this).css('cursor', 'pointer').attr('title', 'Back to top');

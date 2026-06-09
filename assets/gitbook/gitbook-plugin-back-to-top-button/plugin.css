@@ -5,19 +5,17 @@
     background: rgba(0, 0, 0, 0.5);
     width: 50px;
     height: 50px;
-    display: block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     text-decoration: none;
     -webkit-border-radius: 35px;
     -moz-border-radius: 35px;
     border-radius: 35px;
-    display: none;
 }
 .back-to-top i {
     color: #fff;
     margin: 0;
-    position: relative;
-    left: 15px;
-    top: 14px;
     font-size: 22px;
 }
 .back-to-top:hover {
