@@ -34,31 +34,73 @@ Armor is a secondary health bar, a protective shield that sits *on top* of your 
 - "Skills" refers to abilities from the **skill tree**
 - "Perks" refers to abilities from **perk decks**
 
-### Base Armor Values
-On PC, each player has a base armor value of **2**. Players on the console version have a base value of **5**. For the purposes of this guide, I will only be referring to the PC values, unless noted.
+---
 
-Wearing armor adds a bonus to the base value, and impacts a variety of other stats:
+### Base Stats
 
-| Armor | Bonus | Max | Ammo Pickup | Speed | Conceal. | Dodge | Steadiness | Stamina
-| TPS | 0 | 2 | 1.0x | 1.05x | 30 | +5% | 1.0x | 1.025x |
-| LBV | +3 | 5 | 1.02x | 1.025x | 26 | -5% | 0.96x | 1.0x |
-| BV | +4 | 6 | 1.04x | 1.0x | 23 | -10% | 0.92x | 0.95x |
-| HBV | +5 | 7 | 1.06x | 0.95x | 21 | -15% | 0.85x | 0.9 |
-| FJ | +7 | 9 | 1.8x | 0.75x | 18 | -20% | 0.8x | 0.85x |
-| CTV | +11 | 13 | 1.1x | 0.65x | 12 | -25% | 0.7x | 0.8x |
-| ICTV | +15 | 17 | 1.12x | 0.575x | 1 | -55% | 0.5x | 0.7x |
+| Stat | Value | Notes |
+| Base Armor | 2 | Every player starts with this much armor. |
+| Base Health | 23 | Every player starts with this much health. |
+| Armor Regen Delay | 3s | The time it takes for armor to begin regenerating after taking damage, uninterrupted by suppression or taking new damage. |
+| Armor Regen Delay (Solo) | 1.75s | Faster recharge when playing solo. |
+| Dodge Chance | 0% | Base chance to avoid incoming bullets.
 
-### Max Armor Calculation
-Max Armor is the sum of your base armor + armor type bonus + skill/perk bonuses x total armor multiplier.
+> **Note**: Other values exist internally, (`ARMOR_STEPS = 1`, `ARMOR_DAMAGE_REDUCTION = 0`, and `ARMOR_DAMAGE_REDUCTION_STEPS` with the values `{1, 0.6, 0.7, 0.8, 0.9, 0.95, 0.97, 0.98, 0.99}`). However, since the game is hard-coded to return a "0" for `ARMOR_DAMAGE_REDUCTION` and return a "1" for `ARMOR_STEPS`, these values are never used. Seems to be leftover code.
 
-> **Max Armor = (Base Armor + Armor Bonus + Flat Bonuses) x Armor Multiplier**
+---
 
-#### Components
-**Base Armor**: 2
+### Armor Types
+- **Base Armor**: 2 (5 on console) - The base value of armor that all players start with, before any bonuses from armor type, skills, or perks.
+- **Armor Rating** (bonus armor granted by armor type) - A flat bonus to armor that is added to the base value, before any bonuses from skills or perks.
 
-**Armor Bonus**: Associated armor's bonus stat (listed above).
+| Armor Type | Armor Rating |
+|---|---|
+| Two-Piece Suit | 0 |
+| Lightweight Ballistic Vest | 3 |
+| Ballistic Vest | 4 |
+| Heavy Ballistic Vest | 5 |
+| Flak Jacket | 7 |
+| Combined Tactical Vest | 11 |
+| Improved Combined Tactical Vest | 15 |
 
-**Flat Bonuses**:
-- **Die Hard Aced**: +2 armor while wearing any "Ballistic Vest"
-- **Anarchist (Tiers 3/5/7)**: Adds 1x/1.1x/1.2x of your total *reduced* health as a flat armor bonus.
-- **Crew Chief**: 1.1x if you have Crew Chief equipped, 1.05x if a teammate has Crew Chief equipped.
+#### Additional stats per armor level:
+
+Max Ammo Multiplier:
+> Multiplies the total max ammo the player can hold at a given time.
+
+| Armor Type | Max Ammo Multiplier | Notes |
+|---|---|---|
+| Two-Piece Suit | 1x | Base level max ammo capacity.
+| Lightweight Ballistic Vest | 1.02x | 2% bonus ammo capacity.
+| Ballistic Vest | 1.04x | 4% bonus ammo capacity.
+| Heavy Ballistic Vest | 1.06x | 6% bonus ammo capacity.
+| Flak Jacket | 1.8x | 80% bonus max ammo capacity (!!!)
+| Combined Tactical Vest | 1.10x | 10% bonus max ammo capacity.
+| Improved Combined Tactical Vest | 1.12x | 12% bonus max ammo capacity.
+
+Ex-President Health Storage Cap (flat value, then multiplied by 1.5x.):
+> When you kill enemies while armor > 0, you store health up to this cap. When armor breaks, the stored health is converted to armor regen. Keep in mind values are displayed x10 in game.
+
+| Armor Type | Storage Cap (flat value) | Max Stored Health |
+|---|---|---|
+| Two-Piece Suit | 14 | 21 |
+| Lightweight Ballistic Vest | 13.5 | 20.25 |
+| Ballistic Vest | 12.5 | 18.75 |
+| Heavy Ballistic Vest | 12 | 18 |
+| Flak Jacket | 10.5 | 15.75 |
+| Combined Tactical Vest | 9.5 | 14.25 |
+| Improved Combined Tactical Vest | 4 | 6 |
+
+Ex-President Armor Regen Rate:
+
+> How fast armor regenerates after breaking (flat value, then multiplied by 1.4x). Base armor regen rate is = 1x (this would be equal to 3s, or 1.75s when playing solo) and resets to 0 when armor is full. The armor rate bonus from kills only applies during the regen window (after armor breaks, before it fills). 19.6 flat + 1x base regen = 20.6x increase.
+
+| Armor Type | Armor Regen Rate (flat value) | Added Regen Per Kill |
+|---|---|---|
+| Two-Piece Suit | 14 | 19.6 |
+| Lightweight Ballistic Vest | 13.5 | 18.9 |
+| Ballistic Vest | 12.5 | 17.5 |
+| Heavy Ballistic Vest | 12 | 16.8 |
+| Flak Jacket | 10.5 | 14.7 |
+| Combined Tactical Vest | 9.5 | 13.3 |
+| Improved Combined Tactical Vest | 4 | 5.6 |
